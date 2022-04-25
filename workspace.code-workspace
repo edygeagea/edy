@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Users\\user\\Downloads\\etc"
+		},
+		{
+			"path": "..\\..\\Users\\user\\Downloads\\cmd"
+		},
+		{
+			"path": "..\\..\\Users\\user\\Downloads\\tmp"
+		},
+		{
+			"path": "..\\..\\Users\\user\\Downloads\\dev"
+		},
+		{
+			"path": "..\\..\\Users\\user\\Downloads\\usr"
+		},
+		{
+			"path": "..\\..\\Users\\user\\Downloads\\mingw64"
+		},
+		{
+			"path": "..\\..\\Users\\user\\Downloads\\bin"
+		}
+	]
+}
